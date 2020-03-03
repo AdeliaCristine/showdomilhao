@@ -1,0 +1,39 @@
+body { 
+    display: center;
+    background-color: yellow;
+}
+h1 {
+    text-align:center;   
+}
+h2 {
+    text-align:center
+}
+div{
+    padding-left:center;
+    display:inline-block;
+}
+.box1 {
+    padding: 50px;
+    border: 5px solid blue;
+}
+.box2 {
+    padding: 50px;
+    border: 5px solid blue;
+}
+#r1 { 
+    color:green
+}
+#r2 { 
+    color:green
+}
+#r3 { 
+    color:green
+}
+#e1 { 
+    color: red
+}
+#e2 { 
+    color:red
+}
+#e3 { 
+    color:red
